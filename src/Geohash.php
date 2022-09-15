@@ -1,6 +1,6 @@
 <?php
 
-namespace Sk\Geohash;
+namespace Sandermj\Geohash;
 
 /**
  * @author  Saikiran Ch <saikiranchavan@gmail.com>
