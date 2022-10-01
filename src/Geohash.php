@@ -13,7 +13,6 @@ class Geohash
     const EAST = 1;
     const SOUTH = 2;
     const WEST = 3;
-
     const EVEN = 0;
     const ODD = 1;
 
